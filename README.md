@@ -1,3 +1,4 @@
+
 Civic_Hackathon
 ===============
 
@@ -35,3 +36,7 @@ SMS Service:
 
 - Send an SMS to 8333 to get a list of health care departments.
 - Send an SMS to 8333 with the number assigned to the concerned department to receive the address of the nearest facility.
+
+TEAM Members:
+<li>John Brennan</li>
+<li>Ganesh Balaji</li>
