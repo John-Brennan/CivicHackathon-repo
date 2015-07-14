@@ -38,6 +38,7 @@ SMS Service:
 - Send an SMS to 8333 with the number assigned to the concerned department to receive the address of the nearest facility.
 
 TEAM Members:
-<li>Ganesh Balaji</li>
 <li>John Brennan</li>
+<li>Ganesh Balaji</li>
+
 
