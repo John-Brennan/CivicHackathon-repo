@@ -4,8 +4,8 @@ Civic_Hackathon
 
 Civic Hackaton: Android &amp; Web app
 
-Our solution comprises of Android Apps, Web service, Website & SMS. Our main goal is to cover most of the population of Pakistan 
-& facilitate them with information & location of health clinics which are nearest with respect to their current location. 
+Our solution comprises of Android Apps, Web service, Website & SMS. Our main goal is to cover most of the population of Pakistan
+& facilitate them with information & location of health clinics which are nearest with respect to their current location.
 
 
 Webservice:
@@ -28,7 +28,7 @@ Android App:
 Web Application:
 =================
 
-- Lists health departments 
+- Lists health departments
 - User can search health clinics coordinates
 
 SMS Service:
@@ -38,5 +38,6 @@ SMS Service:
 - Send an SMS to 8333 with the number assigned to the concerned department to receive the address of the nearest facility.
 
 TEAM Members:
-<li>John Brennan</li>
 <li>Ganesh Balaji</li>
+<li>John Brennan</li>
+
